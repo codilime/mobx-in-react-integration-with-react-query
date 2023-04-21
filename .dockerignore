@@ -1,0 +1,7 @@
+node_modules
+dist
+storybook-static
+.nyc_output
+.pnpm-store
+playwright-report
+test-results

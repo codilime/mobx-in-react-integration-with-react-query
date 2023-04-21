@@ -1,0 +1,7 @@
+dist
+node_modules
+prettier.config.js
+vite.config.ts
+.eslintrc.js
+.pnpm-store
+.vscode
