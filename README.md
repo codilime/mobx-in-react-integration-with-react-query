@@ -1,6 +1,4 @@
-# mobx-in-react-integration-with-react-query
-
-MobX in React - Practical Examples. Integration with @tanstack/react-query
+# MobX in React - Integration with @tanstack/react-query
 
 **WARNING**: This project requires NodeJS 18.x and [pnpm](https://pnpm.io/installation#using-npm) as a NPM packages manager
 
